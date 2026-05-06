@@ -1,0 +1,1923 @@
+[
+  {
+    "externalId": "py-i-b",
+    "sortOrder": 0,
+    "payload": {
+      "char": "b",
+      "romaji": "p",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"b\" dalam \"bola\"",
+      "example": {
+        "word": "bā",
+        "reading": "bā",
+        "meaning": "delapan",
+        "hanzi": "八"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-p",
+    "sortOrder": 1,
+    "payload": {
+      "char": "p",
+      "romaji": "pʰ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"p\" dalam \"pagi\"",
+      "example": {
+        "word": "pá",
+        "reading": "pá",
+        "meaning": "merangkak",
+        "hanzi": "爬"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-m",
+    "sortOrder": 2,
+    "payload": {
+      "char": "m",
+      "romaji": "m",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"m\" dalam \"makan\"",
+      "example": {
+        "word": "mā",
+        "reading": "mā",
+        "meaning": "ibu",
+        "hanzi": "妈"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-f",
+    "sortOrder": 3,
+    "payload": {
+      "char": "f",
+      "romaji": "f",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"f\" dalam \"foto\"",
+      "example": {
+        "word": "fā",
+        "reading": "fā",
+        "meaning": "mengirim",
+        "hanzi": "发"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-d",
+    "sortOrder": 4,
+    "payload": {
+      "char": "d",
+      "romaji": "t",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"d\" dalam \"dua\"",
+      "example": {
+        "word": "dà",
+        "reading": "dà",
+        "meaning": "besar",
+        "hanzi": "大"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-t",
+    "sortOrder": 5,
+    "payload": {
+      "char": "t",
+      "romaji": "tʰ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"t\" dalam \"tiga\"",
+      "example": {
+        "word": "tā",
+        "reading": "tā",
+        "meaning": "dia (L)",
+        "hanzi": "他"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-n",
+    "sortOrder": 6,
+    "payload": {
+      "char": "n",
+      "romaji": "n",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"n\" dalam \"nama\"",
+      "example": {
+        "word": "nǐ",
+        "reading": "nǐ",
+        "meaning": "kamu",
+        "hanzi": "你"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-l",
+    "sortOrder": 7,
+    "payload": {
+      "char": "l",
+      "romaji": "l",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"l\" dalam \"laut\"",
+      "example": {
+        "word": "lái",
+        "reading": "lái",
+        "meaning": "datang",
+        "hanzi": "来"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-g",
+    "sortOrder": 8,
+    "payload": {
+      "char": "g",
+      "romaji": "k",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"g\" dalam \"gula\"",
+      "example": {
+        "word": "gē",
+        "reading": "gē",
+        "meaning": "kakak laki-laki",
+        "hanzi": "哥"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-k",
+    "sortOrder": 9,
+    "payload": {
+      "char": "k",
+      "romaji": "kʰ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"k\" dalam \"kaki\"",
+      "example": {
+        "word": "kāi",
+        "reading": "kāi",
+        "meaning": "membuka",
+        "hanzi": "开"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-h",
+    "sortOrder": 10,
+    "payload": {
+      "char": "h",
+      "romaji": "x",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"h\" dalam \"hari\" (lebih berat)",
+      "example": {
+        "word": "hǎo",
+        "reading": "hǎo",
+        "meaning": "baik",
+        "hanzi": "好"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-j",
+    "sortOrder": 11,
+    "payload": {
+      "char": "j",
+      "romaji": "tɕ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"j\" dalam \"jalan\" (palatalisasi)",
+      "example": {
+        "word": "jiā",
+        "reading": "jiā",
+        "meaning": "rumah/keluarga",
+        "hanzi": "家"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-q",
+    "sortOrder": 12,
+    "payload": {
+      "char": "q",
+      "romaji": "tɕʰ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"c\" dalam \"cita\" (palatalisasi)",
+      "example": {
+        "word": "qù",
+        "reading": "qù",
+        "meaning": "pergi",
+        "hanzi": "去"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-x",
+    "sortOrder": 13,
+    "payload": {
+      "char": "x",
+      "romaji": "ɕ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"s\" dalam \"siap\" (palatalisasi)",
+      "example": {
+        "word": "xué",
+        "reading": "xué",
+        "meaning": "belajar",
+        "hanzi": "学"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-zh",
+    "sortOrder": 14,
+    "payload": {
+      "char": "zh",
+      "romaji": "ʈʂ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "\"j\" dengan lidah ditekuk ke belakang",
+      "example": {
+        "word": "zhè",
+        "reading": "zhè",
+        "meaning": "ini",
+        "hanzi": "这"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-ch",
+    "sortOrder": 15,
+    "payload": {
+      "char": "ch",
+      "romaji": "ʈʂʰ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "\"ch\" dengan lidah ditekuk ke belakang",
+      "example": {
+        "word": "chī",
+        "reading": "chī",
+        "meaning": "makan",
+        "hanzi": "吃"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-sh",
+    "sortOrder": 16,
+    "payload": {
+      "char": "sh",
+      "romaji": "ʂ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "\"sh\" dengan lidah ditekuk ke belakang",
+      "example": {
+        "word": "shū",
+        "reading": "shū",
+        "meaning": "buku",
+        "hanzi": "书"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-r",
+    "sortOrder": 17,
+    "payload": {
+      "char": "r",
+      "romaji": "ɻ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "campuran \"r\" dan \"zh\"",
+      "example": {
+        "word": "rén",
+        "reading": "rén",
+        "meaning": "orang",
+        "hanzi": "人"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-z",
+    "sortOrder": 18,
+    "payload": {
+      "char": "z",
+      "romaji": "ts",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"dz\" dalam \"dzikir\"",
+      "example": {
+        "word": "zài",
+        "reading": "zài",
+        "meaning": "ada/di",
+        "hanzi": "在"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-c",
+    "sortOrder": 19,
+    "payload": {
+      "char": "c",
+      "romaji": "tsʰ",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"ts\" dalam \"tsunami\"",
+      "example": {
+        "word": "cài",
+        "reading": "cài",
+        "meaning": "sayuran",
+        "hanzi": "菜"
+      }
+    }
+  },
+  {
+    "externalId": "py-i-s",
+    "sortOrder": 20,
+    "payload": {
+      "char": "s",
+      "romaji": "s",
+      "group": "Inisial",
+      "type": "initial",
+      "desc": "seperti \"s\" dalam \"satu\"",
+      "example": {
+        "word": "sān",
+        "reading": "sān",
+        "meaning": "tiga",
+        "hanzi": "三"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-a",
+    "sortOrder": 21,
+    "payload": {
+      "char": "a",
+      "romaji": "a",
+      "group": "Final",
+      "type": "final",
+      "desc": "vokal \"a\" terbuka",
+      "example": {
+        "word": "māo",
+        "reading": "māo",
+        "meaning": "kucing",
+        "hanzi": "猫"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-o",
+    "sortOrder": 22,
+    "payload": {
+      "char": "o",
+      "romaji": "o",
+      "group": "Final",
+      "type": "final",
+      "desc": "vokal \"o\" bulat",
+      "example": {
+        "word": "wǒ",
+        "reading": "wǒ",
+        "meaning": "saya",
+        "hanzi": "我"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-e",
+    "sortOrder": 23,
+    "payload": {
+      "char": "e",
+      "romaji": "e",
+      "group": "Final",
+      "type": "final",
+      "desc": "vokal \"e\" tengah",
+      "example": {
+        "word": "hé",
+        "reading": "hé",
+        "meaning": "dan",
+        "hanzi": "和"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-i",
+    "sortOrder": 24,
+    "payload": {
+      "char": "i",
+      "romaji": "i",
+      "group": "Final",
+      "type": "final",
+      "desc": "vokal \"i\" depan",
+      "example": {
+        "word": "nǐ",
+        "reading": "nǐ",
+        "meaning": "kamu",
+        "hanzi": "你"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-u",
+    "sortOrder": 25,
+    "payload": {
+      "char": "u",
+      "romaji": "u",
+      "group": "Final",
+      "type": "final",
+      "desc": "vokal \"u\" bulat belakang",
+      "example": {
+        "word": "shū",
+        "reading": "shū",
+        "meaning": "buku",
+        "hanzi": "书"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ü",
+    "sortOrder": 26,
+    "payload": {
+      "char": "ü",
+      "romaji": "ü",
+      "group": "Final",
+      "type": "final",
+      "desc": "vokal \"u\" dengan bibir maju (seperti Prancis \"tu\")",
+      "example": {
+        "word": "yú",
+        "reading": "yú",
+        "meaning": "ikan",
+        "hanzi": "鱼"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ai",
+    "sortOrder": 27,
+    "payload": {
+      "char": "ai",
+      "romaji": "ai",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"a\" + \"i\"",
+      "example": {
+        "word": "ài",
+        "reading": "ài",
+        "meaning": "cinta",
+        "hanzi": "爱"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ei",
+    "sortOrder": 28,
+    "payload": {
+      "char": "ei",
+      "romaji": "ei",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"e\" + \"i\"",
+      "example": {
+        "word": "fēi",
+        "reading": "fēi",
+        "meaning": "terbang",
+        "hanzi": "飞"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ui",
+    "sortOrder": 29,
+    "payload": {
+      "char": "ui",
+      "romaji": "ui",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"u\" + \"ei\"",
+      "example": {
+        "word": "duì",
+        "reading": "duì",
+        "meaning": "benar",
+        "hanzi": "对"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ao",
+    "sortOrder": 30,
+    "payload": {
+      "char": "ao",
+      "romaji": "ao",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"a\" + \"o\"",
+      "example": {
+        "word": "hǎo",
+        "reading": "hǎo",
+        "meaning": "baik",
+        "hanzi": "好"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ou",
+    "sortOrder": 31,
+    "payload": {
+      "char": "ou",
+      "romaji": "ou",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"o\" + \"u\"",
+      "example": {
+        "word": "yǒu",
+        "reading": "yǒu",
+        "meaning": "ada/punya",
+        "hanzi": "有"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-iu",
+    "sortOrder": 32,
+    "payload": {
+      "char": "iu",
+      "romaji": "iu",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"i\" + \"ou\"",
+      "example": {
+        "word": "jiǔ",
+        "reading": "jiǔ",
+        "meaning": "sembilan",
+        "hanzi": "九"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ie",
+    "sortOrder": 33,
+    "payload": {
+      "char": "ie",
+      "romaji": "ie",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"i\" + \"e\"",
+      "example": {
+        "word": "xiě",
+        "reading": "xiě",
+        "meaning": "menulis",
+        "hanzi": "写"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-üe",
+    "sortOrder": 34,
+    "payload": {
+      "char": "üe",
+      "romaji": "üe",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"ü\" + \"e\"",
+      "example": {
+        "word": "yuè",
+        "reading": "yuè",
+        "meaning": "bulan",
+        "hanzi": "月"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-er",
+    "sortOrder": 35,
+    "payload": {
+      "char": "er",
+      "romaji": "er",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"e\" + rhotic",
+      "example": {
+        "word": "ér",
+        "reading": "ér",
+        "meaning": "anak",
+        "hanzi": "儿"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-an",
+    "sortOrder": 36,
+    "payload": {
+      "char": "an",
+      "romaji": "an",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"a\" + \"n\"",
+      "example": {
+        "word": "nán",
+        "reading": "nán",
+        "meaning": "sulit",
+        "hanzi": "难"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-en",
+    "sortOrder": 37,
+    "payload": {
+      "char": "en",
+      "romaji": "en",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"e\" + \"n\"",
+      "example": {
+        "word": "rén",
+        "reading": "rén",
+        "meaning": "orang",
+        "hanzi": "人"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-in",
+    "sortOrder": 38,
+    "payload": {
+      "char": "in",
+      "romaji": "in",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"i\" + \"n\"",
+      "example": {
+        "word": "xīn",
+        "reading": "xīn",
+        "meaning": "hati",
+        "hanzi": "心"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-un",
+    "sortOrder": 39,
+    "payload": {
+      "char": "un",
+      "romaji": "un",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"u\" + \"n\"",
+      "example": {
+        "word": "wèn",
+        "reading": "wèn",
+        "meaning": "bertanya",
+        "hanzi": "问"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ün",
+    "sortOrder": 40,
+    "payload": {
+      "char": "ün",
+      "romaji": "ün",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"ü\" + \"n\"",
+      "example": {
+        "word": "yùn",
+        "reading": "yùn",
+        "meaning": "nasib",
+        "hanzi": "运"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ang",
+    "sortOrder": 41,
+    "payload": {
+      "char": "ang",
+      "romaji": "ang",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"a\" + \"ng\"",
+      "example": {
+        "word": "máng",
+        "reading": "máng",
+        "meaning": "sibuk",
+        "hanzi": "忙"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-eng",
+    "sortOrder": 42,
+    "payload": {
+      "char": "eng",
+      "romaji": "eng",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"e\" + \"ng\"",
+      "example": {
+        "word": "néng",
+        "reading": "néng",
+        "meaning": "bisa",
+        "hanzi": "能"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ing",
+    "sortOrder": 43,
+    "payload": {
+      "char": "ing",
+      "romaji": "ing",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"i\" + \"ng\"",
+      "example": {
+        "word": "míng",
+        "reading": "míng",
+        "meaning": "nama",
+        "hanzi": "名"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ong",
+    "sortOrder": 44,
+    "payload": {
+      "char": "ong",
+      "romaji": "ong",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"o\" + \"ng\"",
+      "example": {
+        "word": "tóng",
+        "reading": "tóng",
+        "meaning": "sama",
+        "hanzi": "同"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ia",
+    "sortOrder": 45,
+    "payload": {
+      "char": "ia",
+      "romaji": "ia",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"i\" + \"a\"",
+      "example": {
+        "word": "jiā",
+        "reading": "jiā",
+        "meaning": "rumah",
+        "hanzi": "家"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ua",
+    "sortOrder": 46,
+    "payload": {
+      "char": "ua",
+      "romaji": "ua",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"u\" + \"a\"",
+      "example": {
+        "word": "huā",
+        "reading": "huā",
+        "meaning": "bunga",
+        "hanzi": "花"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-uo",
+    "sortOrder": 47,
+    "payload": {
+      "char": "uo",
+      "romaji": "uo",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"u\" + \"o\"",
+      "example": {
+        "word": "zuò",
+        "reading": "zuò",
+        "meaning": "duduk",
+        "hanzi": "坐"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-iao",
+    "sortOrder": 48,
+    "payload": {
+      "char": "iao",
+      "romaji": "iao",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"i\"+\"a\"+\"o\"",
+      "example": {
+        "word": "xiǎo",
+        "reading": "xiǎo",
+        "meaning": "kecil",
+        "hanzi": "小"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-uai",
+    "sortOrder": 49,
+    "payload": {
+      "char": "uai",
+      "romaji": "uai",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"u\"+\"a\"+\"i\"",
+      "example": {
+        "word": "kuài",
+        "reading": "kuài",
+        "meaning": "cepat",
+        "hanzi": "快"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-uan",
+    "sortOrder": 50,
+    "payload": {
+      "char": "uan",
+      "romaji": "uan",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"u\" + \"an\"",
+      "example": {
+        "word": "wán",
+        "reading": "wán",
+        "meaning": "selesai",
+        "hanzi": "完"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ian",
+    "sortOrder": 51,
+    "payload": {
+      "char": "ian",
+      "romaji": "ian",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"i\" + \"an\"",
+      "example": {
+        "word": "tiān",
+        "reading": "tiān",
+        "meaning": "langit/hari",
+        "hanzi": "天"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-üan",
+    "sortOrder": 52,
+    "payload": {
+      "char": "üan",
+      "romaji": "üan",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"ü\" + \"an\"",
+      "example": {
+        "word": "yuān",
+        "reading": "yuān",
+        "meaning": "tidak adil",
+        "hanzi": "冤"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-iang",
+    "sortOrder": 53,
+    "payload": {
+      "char": "iang",
+      "romaji": "iang",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"i\"+\"a\"+\"ng\"",
+      "example": {
+        "word": "liǎng",
+        "reading": "liǎng",
+        "meaning": "dua (jumlah)",
+        "hanzi": "两"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-uang",
+    "sortOrder": 54,
+    "payload": {
+      "char": "uang",
+      "romaji": "uang",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"u\"+\"a\"+\"ng\"",
+      "example": {
+        "word": "wǎng",
+        "reading": "wǎng",
+        "meaning": "jaringan/internet",
+        "hanzi": "网"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-iong",
+    "sortOrder": 55,
+    "payload": {
+      "char": "iong",
+      "romaji": "iong",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"i\"+\"o\"+\"ng\"",
+      "example": {
+        "word": "yòng",
+        "reading": "yòng",
+        "meaning": "menggunakan",
+        "hanzi": "用"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-ueng",
+    "sortOrder": 56,
+    "payload": {
+      "char": "ueng",
+      "romaji": "ueng",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"u\"+\"e\"+\"ng\"",
+      "example": {
+        "word": "wēng",
+        "reading": "wēng",
+        "meaning": "orang tua laki-laki",
+        "hanzi": "翁"
+      }
+    }
+  },
+  {
+    "externalId": "py-f-iou",
+    "sortOrder": 57,
+    "payload": {
+      "char": "iou",
+      "romaji": "iou",
+      "group": "Final",
+      "type": "final",
+      "desc": "\"i\"+\"o\"+\"u\"",
+      "example": {
+        "word": "niú",
+        "reading": "niú",
+        "meaning": "sapi",
+        "hanzi": "牛"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-bā",
+    "sortOrder": 58,
+    "payload": {
+      "char": "八",
+      "romaji": "bā",
+      "group": "b+a",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "bā",
+        "reading": "bā",
+        "meaning": "delapan",
+        "hanzi": "八"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-bái",
+    "sortOrder": 59,
+    "payload": {
+      "char": "白",
+      "romaji": "bái",
+      "group": "b+ai",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "bái",
+        "reading": "bái",
+        "meaning": "putih",
+        "hanzi": "白"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-bǎo",
+    "sortOrder": 60,
+    "payload": {
+      "char": "饱",
+      "romaji": "bǎo",
+      "group": "b+ao",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "bǎo",
+        "reading": "bǎo",
+        "meaning": "kenyang",
+        "hanzi": "饱"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-bèi",
+    "sortOrder": 61,
+    "payload": {
+      "char": "被",
+      "romaji": "bèi",
+      "group": "b+ei",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "bèi",
+        "reading": "bèi",
+        "meaning": "oleh / selimut",
+        "hanzi": "被"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-bān",
+    "sortOrder": 62,
+    "payload": {
+      "char": "班",
+      "romaji": "bān",
+      "group": "b+an",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "bān",
+        "reading": "bān",
+        "meaning": "kelas",
+        "hanzi": "班"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-bǐ",
+    "sortOrder": 63,
+    "payload": {
+      "char": "笔",
+      "romaji": "bǐ",
+      "group": "b+i",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "bǐ",
+        "reading": "bǐ",
+        "meaning": "pena",
+        "hanzi": "笔"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-bù",
+    "sortOrder": 64,
+    "payload": {
+      "char": "不",
+      "romaji": "bù",
+      "group": "b+u",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "bù",
+        "reading": "bù",
+        "meaning": "tidak",
+        "hanzi": "不"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-māo",
+    "sortOrder": 65,
+    "payload": {
+      "char": "猫",
+      "romaji": "māo",
+      "group": "m+ao",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "māo",
+        "reading": "māo",
+        "meaning": "kucing",
+        "hanzi": "猫"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-mā",
+    "sortOrder": 66,
+    "payload": {
+      "char": "妈",
+      "romaji": "mā",
+      "group": "m+a",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "mā",
+        "reading": "mā",
+        "meaning": "ibu",
+        "hanzi": "妈"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-méi",
+    "sortOrder": 67,
+    "payload": {
+      "char": "没",
+      "romaji": "méi",
+      "group": "m+ei",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "méi",
+        "reading": "méi",
+        "meaning": "tidak ada",
+        "hanzi": "没"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-mén",
+    "sortOrder": 68,
+    "payload": {
+      "char": "门",
+      "romaji": "mén",
+      "group": "m+en",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "mén",
+        "reading": "mén",
+        "meaning": "pintu",
+        "hanzi": "门"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-míng",
+    "sortOrder": 69,
+    "payload": {
+      "char": "名",
+      "romaji": "míng",
+      "group": "m+ing",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "míng",
+        "reading": "míng",
+        "meaning": "nama",
+        "hanzi": "名"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-dà",
+    "sortOrder": 70,
+    "payload": {
+      "char": "大",
+      "romaji": "dà",
+      "group": "d+a",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "dà",
+        "reading": "dà",
+        "meaning": "besar",
+        "hanzi": "大"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-dōu",
+    "sortOrder": 71,
+    "payload": {
+      "char": "都",
+      "romaji": "dōu",
+      "group": "d+ou",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "dōu",
+        "reading": "dōu",
+        "meaning": "semua",
+        "hanzi": "都"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-duì",
+    "sortOrder": 72,
+    "payload": {
+      "char": "对",
+      "romaji": "duì",
+      "group": "d+ui",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "duì",
+        "reading": "duì",
+        "meaning": "benar",
+        "hanzi": "对"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-diǎn",
+    "sortOrder": 73,
+    "payload": {
+      "char": "点",
+      "romaji": "diǎn",
+      "group": "d+ian",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "diǎn",
+        "reading": "diǎn",
+        "meaning": "titik/poin",
+        "hanzi": "点"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-nǐ",
+    "sortOrder": 74,
+    "payload": {
+      "char": "你",
+      "romaji": "nǐ",
+      "group": "n+i",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "nǐ",
+        "reading": "nǐ",
+        "meaning": "kamu",
+        "hanzi": "你"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-nán",
+    "sortOrder": 75,
+    "payload": {
+      "char": "男",
+      "romaji": "nán",
+      "group": "n+an",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "nán",
+        "reading": "nán",
+        "meaning": "laki-laki",
+        "hanzi": "男"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-néng",
+    "sortOrder": 76,
+    "payload": {
+      "char": "能",
+      "romaji": "néng",
+      "group": "n+eng",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "néng",
+        "reading": "néng",
+        "meaning": "bisa",
+        "hanzi": "能"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-nǚ",
+    "sortOrder": 77,
+    "payload": {
+      "char": "女",
+      "romaji": "nǚ",
+      "group": "n+ü",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "nǚ",
+        "reading": "nǚ",
+        "meaning": "perempuan",
+        "hanzi": "女"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-lái",
+    "sortOrder": 78,
+    "payload": {
+      "char": "来",
+      "romaji": "lái",
+      "group": "l+ai",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "lái",
+        "reading": "lái",
+        "meaning": "datang",
+        "hanzi": "来"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-lǎo",
+    "sortOrder": 79,
+    "payload": {
+      "char": "老",
+      "romaji": "lǎo",
+      "group": "l+ao",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "lǎo",
+        "reading": "lǎo",
+        "meaning": "tua",
+        "hanzi": "老"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-lèi",
+    "sortOrder": 80,
+    "payload": {
+      "char": "累",
+      "romaji": "lèi",
+      "group": "l+ei",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "lèi",
+        "reading": "lèi",
+        "meaning": "lelah",
+        "hanzi": "累"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-liǎng",
+    "sortOrder": 81,
+    "payload": {
+      "char": "两",
+      "romaji": "liǎng",
+      "group": "l+iang",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "liǎng",
+        "reading": "liǎng",
+        "meaning": "dua (jumlah)",
+        "hanzi": "两"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-gāo",
+    "sortOrder": 82,
+    "payload": {
+      "char": "高",
+      "romaji": "gāo",
+      "group": "g+ao",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "gāo",
+        "reading": "gāo",
+        "meaning": "tinggi",
+        "hanzi": "高"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-gège",
+    "sortOrder": 83,
+    "payload": {
+      "char": "哥哥",
+      "romaji": "gège",
+      "group": "g+e",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "gège",
+        "reading": "gège",
+        "meaning": "kakak laki-laki",
+        "hanzi": "哥哥"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-guó",
+    "sortOrder": 84,
+    "payload": {
+      "char": "国",
+      "romaji": "guó",
+      "group": "g+uo",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "guó",
+        "reading": "guó",
+        "meaning": "negara",
+        "hanzi": "国"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-hǎo",
+    "sortOrder": 85,
+    "payload": {
+      "char": "好",
+      "romaji": "hǎo",
+      "group": "h+ao",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "hǎo",
+        "reading": "hǎo",
+        "meaning": "baik",
+        "hanzi": "好"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-hé",
+    "sortOrder": 86,
+    "payload": {
+      "char": "和",
+      "romaji": "hé",
+      "group": "h+e",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "hé",
+        "reading": "hé",
+        "meaning": "dan",
+        "hanzi": "和"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-huā",
+    "sortOrder": 87,
+    "payload": {
+      "char": "花",
+      "romaji": "huā",
+      "group": "h+ua",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "huā",
+        "reading": "huā",
+        "meaning": "bunga",
+        "hanzi": "花"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-huí",
+    "sortOrder": 88,
+    "payload": {
+      "char": "回",
+      "romaji": "huí",
+      "group": "h+ui",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "huí",
+        "reading": "huí",
+        "meaning": "kembali",
+        "hanzi": "回"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-jiā",
+    "sortOrder": 89,
+    "payload": {
+      "char": "家",
+      "romaji": "jiā",
+      "group": "j+ia",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "jiā",
+        "reading": "jiā",
+        "meaning": "rumah/keluarga",
+        "hanzi": "家"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-jiǔ",
+    "sortOrder": 90,
+    "payload": {
+      "char": "九",
+      "romaji": "jiǔ",
+      "group": "j+iu",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "jiǔ",
+        "reading": "jiǔ",
+        "meaning": "sembilan",
+        "hanzi": "九"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-jīn",
+    "sortOrder": 91,
+    "payload": {
+      "char": "今",
+      "romaji": "jīn",
+      "group": "j+in",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "jīn",
+        "reading": "jīn",
+        "meaning": "sekarang",
+        "hanzi": "今"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-qù",
+    "sortOrder": 92,
+    "payload": {
+      "char": "去",
+      "romaji": "qù",
+      "group": "q+u",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "qù",
+        "reading": "qù",
+        "meaning": "pergi",
+        "hanzi": "去"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-qǐng",
+    "sortOrder": 93,
+    "payload": {
+      "char": "请",
+      "romaji": "qǐng",
+      "group": "q+ing",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "qǐng",
+        "reading": "qǐng",
+        "meaning": "silakan/tolong",
+        "hanzi": "请"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-qián",
+    "sortOrder": 94,
+    "payload": {
+      "char": "钱",
+      "romaji": "qián",
+      "group": "q+ian",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "qián",
+        "reading": "qián",
+        "meaning": "uang",
+        "hanzi": "钱"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-xué",
+    "sortOrder": 95,
+    "payload": {
+      "char": "学",
+      "romaji": "xué",
+      "group": "x+üe",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "xué",
+        "reading": "xué",
+        "meaning": "belajar",
+        "hanzi": "学"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-xiǎo",
+    "sortOrder": 96,
+    "payload": {
+      "char": "小",
+      "romaji": "xiǎo",
+      "group": "x+iao",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "xiǎo",
+        "reading": "xiǎo",
+        "meaning": "kecil",
+        "hanzi": "小"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-xīn",
+    "sortOrder": 97,
+    "payload": {
+      "char": "心",
+      "romaji": "xīn",
+      "group": "x+in",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "xīn",
+        "reading": "xīn",
+        "meaning": "hati",
+        "hanzi": "心"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-zhè",
+    "sortOrder": 98,
+    "payload": {
+      "char": "这",
+      "romaji": "zhè",
+      "group": "zh+e",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "zhè",
+        "reading": "zhè",
+        "meaning": "ini",
+        "hanzi": "这"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-zhōng",
+    "sortOrder": 99,
+    "payload": {
+      "char": "中",
+      "romaji": "zhōng",
+      "group": "zh+ong",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "zhōng",
+        "reading": "zhōng",
+        "meaning": "tengah",
+        "hanzi": "中"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-zhī",
+    "sortOrder": 100,
+    "payload": {
+      "char": "知",
+      "romaji": "zhī",
+      "group": "zh+i",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "zhī",
+        "reading": "zhī",
+        "meaning": "tahu",
+        "hanzi": "知"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-chī",
+    "sortOrder": 101,
+    "payload": {
+      "char": "吃",
+      "romaji": "chī",
+      "group": "ch+i",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "chī",
+        "reading": "chī",
+        "meaning": "makan",
+        "hanzi": "吃"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-chǎng",
+    "sortOrder": 102,
+    "payload": {
+      "char": "场",
+      "romaji": "chǎng",
+      "group": "ch+ang",
+      "type": "kombinasi",
+      "tone": 3,
+      "example": {
+        "word": "chǎng",
+        "reading": "chǎng",
+        "meaning": "lapangan",
+        "hanzi": "场"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-shū",
+    "sortOrder": 103,
+    "payload": {
+      "char": "书",
+      "romaji": "shū",
+      "group": "sh+u",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "shū",
+        "reading": "shū",
+        "meaning": "buku",
+        "hanzi": "书"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-shí",
+    "sortOrder": 104,
+    "payload": {
+      "char": "十",
+      "romaji": "shí",
+      "group": "sh+i",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "shí",
+        "reading": "shí",
+        "meaning": "sepuluh",
+        "hanzi": "十"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-shéi",
+    "sortOrder": 105,
+    "payload": {
+      "char": "谁",
+      "romaji": "shéi",
+      "group": "sh+ei",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "shéi",
+        "reading": "shéi",
+        "meaning": "siapa",
+        "hanzi": "谁"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-rén",
+    "sortOrder": 106,
+    "payload": {
+      "char": "人",
+      "romaji": "rén",
+      "group": "r+en",
+      "type": "kombinasi",
+      "tone": 2,
+      "example": {
+        "word": "rén",
+        "reading": "rén",
+        "meaning": "orang",
+        "hanzi": "人"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-rì",
+    "sortOrder": 107,
+    "payload": {
+      "char": "日",
+      "romaji": "rì",
+      "group": "r+i",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "rì",
+        "reading": "rì",
+        "meaning": "hari/matahari",
+        "hanzi": "日"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-zài",
+    "sortOrder": 108,
+    "payload": {
+      "char": "在",
+      "romaji": "zài",
+      "group": "z+ai",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "zài",
+        "reading": "zài",
+        "meaning": "ada/di",
+        "hanzi": "在"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-zuò",
+    "sortOrder": 109,
+    "payload": {
+      "char": "坐",
+      "romaji": "zuò",
+      "group": "z+uo",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "zuò",
+        "reading": "zuò",
+        "meaning": "duduk",
+        "hanzi": "坐"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-cài",
+    "sortOrder": 110,
+    "payload": {
+      "char": "菜",
+      "romaji": "cài",
+      "group": "c+ai",
+      "type": "kombinasi",
+      "tone": 4,
+      "example": {
+        "word": "cài",
+        "reading": "cài",
+        "meaning": "sayuran/lauk",
+        "hanzi": "菜"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-sān",
+    "sortOrder": 111,
+    "payload": {
+      "char": "三",
+      "romaji": "sān",
+      "group": "s+an",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "sān",
+        "reading": "sān",
+        "meaning": "tiga",
+        "hanzi": "三"
+      }
+    }
+  },
+  {
+    "externalId": "py-c-shuō",
+    "sortOrder": 112,
+    "payload": {
+      "char": "说",
+      "romaji": "shuō",
+      "group": "sh+uo",
+      "type": "kombinasi",
+      "tone": 1,
+      "example": {
+        "word": "shuō",
+        "reading": "shuō",
+        "meaning": "berbicara",
+        "hanzi": "说"
+      }
+    }
+  }
+]

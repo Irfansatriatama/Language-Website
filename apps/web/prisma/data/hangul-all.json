@@ -1,0 +1,1472 @@
+[
+  {
+    "externalId": "jamo-c-ㄱ",
+    "sortOrder": 0,
+    "payload": {
+      "char": "ㄱ",
+      "romaji": "g / k",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "giyeok",
+      "example": {
+        "word": "가방",
+        "reading": "가",
+        "meaning": "tas"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㄴ",
+    "sortOrder": 1,
+    "payload": {
+      "char": "ㄴ",
+      "romaji": "n",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "nieun",
+      "example": {
+        "word": "나무",
+        "reading": "나",
+        "meaning": "pohon"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㄷ",
+    "sortOrder": 2,
+    "payload": {
+      "char": "ㄷ",
+      "romaji": "d / t",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "digeut",
+      "example": {
+        "word": "다리",
+        "reading": "다",
+        "meaning": "kaki / jembatan"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㄹ",
+    "sortOrder": 3,
+    "payload": {
+      "char": "ㄹ",
+      "romaji": "r / l",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "rieul",
+      "example": {
+        "word": "라디오",
+        "reading": "라",
+        "meaning": "radio"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㅁ",
+    "sortOrder": 4,
+    "payload": {
+      "char": "ㅁ",
+      "romaji": "m",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "mieum",
+      "example": {
+        "word": "마음",
+        "reading": "마",
+        "meaning": "hati / pikiran"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㅂ",
+    "sortOrder": 5,
+    "payload": {
+      "char": "ㅂ",
+      "romaji": "b / p",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "bieup",
+      "example": {
+        "word": "바다",
+        "reading": "바",
+        "meaning": "laut"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㅅ",
+    "sortOrder": 6,
+    "payload": {
+      "char": "ㅅ",
+      "romaji": "s",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "siot",
+      "example": {
+        "word": "사람",
+        "reading": "사",
+        "meaning": "orang"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㅇ",
+    "sortOrder": 7,
+    "payload": {
+      "char": "ㅇ",
+      "romaji": "- / ng",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "ieung",
+      "example": {
+        "word": "아이",
+        "reading": "아",
+        "meaning": "anak"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㅈ",
+    "sortOrder": 8,
+    "payload": {
+      "char": "ㅈ",
+      "romaji": "j",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "jieut",
+      "example": {
+        "word": "자동차",
+        "reading": "자",
+        "meaning": "mobil"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㅊ",
+    "sortOrder": 9,
+    "payload": {
+      "char": "ㅊ",
+      "romaji": "ch",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "chieut",
+      "example": {
+        "word": "차",
+        "reading": "차",
+        "meaning": "teh / mobil"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㅋ",
+    "sortOrder": 10,
+    "payload": {
+      "char": "ㅋ",
+      "romaji": "k",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "kieuk",
+      "example": {
+        "word": "카메라",
+        "reading": "카",
+        "meaning": "kamera"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㅌ",
+    "sortOrder": 11,
+    "payload": {
+      "char": "ㅌ",
+      "romaji": "t",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "tieut",
+      "example": {
+        "word": "타자기",
+        "reading": "타",
+        "meaning": "mesin tik"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㅍ",
+    "sortOrder": 12,
+    "payload": {
+      "char": "ㅍ",
+      "romaji": "p",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "pieup",
+      "example": {
+        "word": "파란색",
+        "reading": "파",
+        "meaning": "warna biru"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-c-ㅎ",
+    "sortOrder": 13,
+    "payload": {
+      "char": "ㅎ",
+      "romaji": "h",
+      "group": "Konsonan",
+      "type": "jamo",
+      "name": "hieut",
+      "example": {
+        "word": "하늘",
+        "reading": "하",
+        "meaning": "langit"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅏ",
+    "sortOrder": 14,
+    "payload": {
+      "char": "ㅏ",
+      "romaji": "a",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "a",
+      "example": {
+        "word": "아버지",
+        "reading": "아",
+        "meaning": "ayah"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅐ",
+    "sortOrder": 15,
+    "payload": {
+      "char": "ㅐ",
+      "romaji": "ae",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "ae",
+      "example": {
+        "word": "애인",
+        "reading": "애",
+        "meaning": "kekasih"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅑ",
+    "sortOrder": 16,
+    "payload": {
+      "char": "ㅑ",
+      "romaji": "ya",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "ya",
+      "example": {
+        "word": "야구",
+        "reading": "야",
+        "meaning": "bisbol"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅒ",
+    "sortOrder": 17,
+    "payload": {
+      "char": "ㅒ",
+      "romaji": "yae",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "yae",
+      "example": {
+        "word": "얘기",
+        "reading": "얘",
+        "meaning": "cerita / obrolan"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅓ",
+    "sortOrder": 18,
+    "payload": {
+      "char": "ㅓ",
+      "romaji": "eo",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "eo",
+      "example": {
+        "word": "어머니",
+        "reading": "어",
+        "meaning": "ibu"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅔ",
+    "sortOrder": 19,
+    "payload": {
+      "char": "ㅔ",
+      "romaji": "e",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "e",
+      "example": {
+        "word": "에너지",
+        "reading": "에",
+        "meaning": "energi"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅕ",
+    "sortOrder": 20,
+    "payload": {
+      "char": "ㅕ",
+      "romaji": "yeo",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "yeo",
+      "example": {
+        "word": "여자",
+        "reading": "여",
+        "meaning": "perempuan"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅖ",
+    "sortOrder": 21,
+    "payload": {
+      "char": "ㅖ",
+      "romaji": "ye",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "ye",
+      "example": {
+        "word": "예쁘다",
+        "reading": "예",
+        "meaning": "cantik"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅗ",
+    "sortOrder": 22,
+    "payload": {
+      "char": "ㅗ",
+      "romaji": "o",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "o",
+      "example": {
+        "word": "오빠",
+        "reading": "오",
+        "meaning": "kakak laki-laki (dari perempuan)"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅘ",
+    "sortOrder": 23,
+    "payload": {
+      "char": "ㅘ",
+      "romaji": "wa",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "wa",
+      "example": {
+        "word": "와인",
+        "reading": "와",
+        "meaning": "wine / anggur"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅙ",
+    "sortOrder": 24,
+    "payload": {
+      "char": "ㅙ",
+      "romaji": "wae",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "wae",
+      "example": {
+        "word": "왜요?",
+        "reading": "왜",
+        "meaning": "kenapa?"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅚ",
+    "sortOrder": 25,
+    "payload": {
+      "char": "ㅚ",
+      "romaji": "oe",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "oe",
+      "example": {
+        "word": "외국",
+        "reading": "외",
+        "meaning": "luar negeri"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅛ",
+    "sortOrder": 26,
+    "payload": {
+      "char": "ㅛ",
+      "romaji": "yo",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "yo",
+      "example": {
+        "word": "요리",
+        "reading": "요",
+        "meaning": "masakan / memasak"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅜ",
+    "sortOrder": 27,
+    "payload": {
+      "char": "ㅜ",
+      "romaji": "u",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "u",
+      "example": {
+        "word": "우산",
+        "reading": "우",
+        "meaning": "payung"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅝ",
+    "sortOrder": 28,
+    "payload": {
+      "char": "ㅝ",
+      "romaji": "wo",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "wo",
+      "example": {
+        "word": "워크숍",
+        "reading": "워",
+        "meaning": "workshop"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅞ",
+    "sortOrder": 29,
+    "payload": {
+      "char": "ㅞ",
+      "romaji": "we",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "we",
+      "example": {
+        "word": "웨이터",
+        "reading": "웨",
+        "meaning": "pelayan (pria)"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅟ",
+    "sortOrder": 30,
+    "payload": {
+      "char": "ㅟ",
+      "romaji": "wi",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "wi",
+      "example": {
+        "word": "위험",
+        "reading": "위",
+        "meaning": "bahaya"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅠ",
+    "sortOrder": 31,
+    "payload": {
+      "char": "ㅠ",
+      "romaji": "yu",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "yu",
+      "example": {
+        "word": "유리",
+        "reading": "유",
+        "meaning": "kaca / nama Yuri"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅡ",
+    "sortOrder": 32,
+    "payload": {
+      "char": "ㅡ",
+      "romaji": "eu",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "eu",
+      "example": {
+        "word": "으뜸",
+        "reading": "으",
+        "meaning": "yang terbaik / utama"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅢ",
+    "sortOrder": 33,
+    "payload": {
+      "char": "ㅢ",
+      "romaji": "ui",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "ui",
+      "example": {
+        "word": "의사",
+        "reading": "의",
+        "meaning": "dokter"
+      }
+    }
+  },
+  {
+    "externalId": "jamo-v-ㅣ",
+    "sortOrder": 34,
+    "payload": {
+      "char": "ㅣ",
+      "romaji": "i",
+      "group": "Vokal",
+      "type": "jamo",
+      "name": "i",
+      "example": {
+        "word": "이름",
+        "reading": "이",
+        "meaning": "nama"
+      }
+    }
+  },
+  {
+    "externalId": "syl-가",
+    "sortOrder": 35,
+    "payload": {
+      "char": "가",
+      "romaji": "ga",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄱ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-고",
+    "sortOrder": 36,
+    "payload": {
+      "char": "고",
+      "romaji": "go",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄱ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-구",
+    "sortOrder": 37,
+    "payload": {
+      "char": "구",
+      "romaji": "gu",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄱ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-기",
+    "sortOrder": 38,
+    "payload": {
+      "char": "기",
+      "romaji": "gi",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄱ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-나",
+    "sortOrder": 39,
+    "payload": {
+      "char": "나",
+      "romaji": "na",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄴ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-노",
+    "sortOrder": 40,
+    "payload": {
+      "char": "노",
+      "romaji": "no",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄴ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-누",
+    "sortOrder": 41,
+    "payload": {
+      "char": "누",
+      "romaji": "nu",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄴ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-니",
+    "sortOrder": 42,
+    "payload": {
+      "char": "니",
+      "romaji": "ni",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄴ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-다",
+    "sortOrder": 43,
+    "payload": {
+      "char": "다",
+      "romaji": "da",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄷ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-도",
+    "sortOrder": 44,
+    "payload": {
+      "char": "도",
+      "romaji": "do",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄷ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-두",
+    "sortOrder": 45,
+    "payload": {
+      "char": "두",
+      "romaji": "du",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄷ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-디",
+    "sortOrder": 46,
+    "payload": {
+      "char": "디",
+      "romaji": "di",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄷ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-라",
+    "sortOrder": 47,
+    "payload": {
+      "char": "라",
+      "romaji": "ra",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄹ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-로",
+    "sortOrder": 48,
+    "payload": {
+      "char": "로",
+      "romaji": "ro",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄹ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-루",
+    "sortOrder": 49,
+    "payload": {
+      "char": "루",
+      "romaji": "ru",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄹ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-리",
+    "sortOrder": 50,
+    "payload": {
+      "char": "리",
+      "romaji": "ri",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㄹ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-마",
+    "sortOrder": 51,
+    "payload": {
+      "char": "마",
+      "romaji": "ma",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅁ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-모",
+    "sortOrder": 52,
+    "payload": {
+      "char": "모",
+      "romaji": "mo",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅁ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-무",
+    "sortOrder": 53,
+    "payload": {
+      "char": "무",
+      "romaji": "mu",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅁ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-미",
+    "sortOrder": 54,
+    "payload": {
+      "char": "미",
+      "romaji": "mi",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅁ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-바",
+    "sortOrder": 55,
+    "payload": {
+      "char": "바",
+      "romaji": "ba",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅂ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-보",
+    "sortOrder": 56,
+    "payload": {
+      "char": "보",
+      "romaji": "bo",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅂ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-부",
+    "sortOrder": 57,
+    "payload": {
+      "char": "부",
+      "romaji": "bu",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅂ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-비",
+    "sortOrder": 58,
+    "payload": {
+      "char": "비",
+      "romaji": "bi",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅂ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-사",
+    "sortOrder": 59,
+    "payload": {
+      "char": "사",
+      "romaji": "sa",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅅ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-소",
+    "sortOrder": 60,
+    "payload": {
+      "char": "소",
+      "romaji": "so",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅅ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-수",
+    "sortOrder": 61,
+    "payload": {
+      "char": "수",
+      "romaji": "su",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅅ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-시",
+    "sortOrder": 62,
+    "payload": {
+      "char": "시",
+      "romaji": "si",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅅ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-아",
+    "sortOrder": 63,
+    "payload": {
+      "char": "아",
+      "romaji": "a",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-오",
+    "sortOrder": 64,
+    "payload": {
+      "char": "오",
+      "romaji": "o",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-우",
+    "sortOrder": 65,
+    "payload": {
+      "char": "우",
+      "romaji": "u",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-이",
+    "sortOrder": 66,
+    "payload": {
+      "char": "이",
+      "romaji": "i",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-자",
+    "sortOrder": 67,
+    "payload": {
+      "char": "자",
+      "romaji": "ja",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅈ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-조",
+    "sortOrder": 68,
+    "payload": {
+      "char": "조",
+      "romaji": "jo",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅈ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-주",
+    "sortOrder": 69,
+    "payload": {
+      "char": "주",
+      "romaji": "ju",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅈ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-지",
+    "sortOrder": 70,
+    "payload": {
+      "char": "지",
+      "romaji": "ji",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅈ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-차",
+    "sortOrder": 71,
+    "payload": {
+      "char": "차",
+      "romaji": "cha",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅊ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-초",
+    "sortOrder": 72,
+    "payload": {
+      "char": "초",
+      "romaji": "cho",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅊ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-추",
+    "sortOrder": 73,
+    "payload": {
+      "char": "추",
+      "romaji": "chu",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅊ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-치",
+    "sortOrder": 74,
+    "payload": {
+      "char": "치",
+      "romaji": "chi",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅊ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-카",
+    "sortOrder": 75,
+    "payload": {
+      "char": "카",
+      "romaji": "ka",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅋ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-코",
+    "sortOrder": 76,
+    "payload": {
+      "char": "코",
+      "romaji": "ko",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅋ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-쿠",
+    "sortOrder": 77,
+    "payload": {
+      "char": "쿠",
+      "romaji": "ku",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅋ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-키",
+    "sortOrder": 78,
+    "payload": {
+      "char": "키",
+      "romaji": "ki",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅋ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-타",
+    "sortOrder": 79,
+    "payload": {
+      "char": "타",
+      "romaji": "ta",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅌ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-토",
+    "sortOrder": 80,
+    "payload": {
+      "char": "토",
+      "romaji": "to",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅌ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-투",
+    "sortOrder": 81,
+    "payload": {
+      "char": "투",
+      "romaji": "tu",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅌ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-티",
+    "sortOrder": 82,
+    "payload": {
+      "char": "티",
+      "romaji": "ti",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅌ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-파",
+    "sortOrder": 83,
+    "payload": {
+      "char": "파",
+      "romaji": "pa",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅍ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-포",
+    "sortOrder": 84,
+    "payload": {
+      "char": "포",
+      "romaji": "po",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅍ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-푸",
+    "sortOrder": 85,
+    "payload": {
+      "char": "푸",
+      "romaji": "pu",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅍ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-피",
+    "sortOrder": 86,
+    "payload": {
+      "char": "피",
+      "romaji": "pi",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅍ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-하",
+    "sortOrder": 87,
+    "payload": {
+      "char": "하",
+      "romaji": "ha",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅎ",
+      "vowel": "ㅏ"
+    }
+  },
+  {
+    "externalId": "syl-호",
+    "sortOrder": 88,
+    "payload": {
+      "char": "호",
+      "romaji": "ho",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅎ",
+      "vowel": "ㅗ"
+    }
+  },
+  {
+    "externalId": "syl-후",
+    "sortOrder": 89,
+    "payload": {
+      "char": "후",
+      "romaji": "hu",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅎ",
+      "vowel": "ㅜ"
+    }
+  },
+  {
+    "externalId": "syl-히",
+    "sortOrder": 90,
+    "payload": {
+      "char": "히",
+      "romaji": "hi",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅎ",
+      "vowel": "ㅣ"
+    }
+  },
+  {
+    "externalId": "syl-여",
+    "sortOrder": 91,
+    "payload": {
+      "char": "여",
+      "romaji": "yeo",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅕ"
+    }
+  },
+  {
+    "externalId": "syl-야",
+    "sortOrder": 92,
+    "payload": {
+      "char": "야",
+      "romaji": "ya",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅑ"
+    }
+  },
+  {
+    "externalId": "syl-요",
+    "sortOrder": 93,
+    "payload": {
+      "char": "요",
+      "romaji": "yo",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅛ"
+    }
+  },
+  {
+    "externalId": "syl-유",
+    "sortOrder": 94,
+    "payload": {
+      "char": "유",
+      "romaji": "yu",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅠ"
+    }
+  },
+  {
+    "externalId": "syl-에",
+    "sortOrder": 95,
+    "payload": {
+      "char": "에",
+      "romaji": "e",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅔ"
+    }
+  },
+  {
+    "externalId": "syl-의",
+    "sortOrder": 96,
+    "payload": {
+      "char": "의",
+      "romaji": "ui",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅢ"
+    }
+  },
+  {
+    "externalId": "syl-와",
+    "sortOrder": 97,
+    "payload": {
+      "char": "와",
+      "romaji": "wa",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅘ"
+    }
+  },
+  {
+    "externalId": "syl-위",
+    "sortOrder": 98,
+    "payload": {
+      "char": "위",
+      "romaji": "wi",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅟ"
+    }
+  },
+  {
+    "externalId": "syl-왜",
+    "sortOrder": 99,
+    "payload": {
+      "char": "왜",
+      "romaji": "wae",
+      "group": "Suku kata",
+      "type": "silaba",
+      "consonant": "ㅇ",
+      "vowel": "ㅙ"
+    }
+  },
+  {
+    "externalId": "syl-한",
+    "sortOrder": 100,
+    "payload": {
+      "char": "한",
+      "romaji": "han",
+      "group": "Suku kata + batchim",
+      "type": "silaba-batchim",
+      "consonant": "ㅎ",
+      "vowel": "ㅏ",
+      "batchim": "ㄴ"
+    }
+  },
+  {
+    "externalId": "syl-국",
+    "sortOrder": 101,
+    "payload": {
+      "char": "국",
+      "romaji": "guk",
+      "group": "Suku kata + batchim",
+      "type": "silaba-batchim",
+      "consonant": "ㄱ",
+      "vowel": "ㅜ",
+      "batchim": "ㄱ"
+    }
+  },
+  {
+    "externalId": "syl-말",
+    "sortOrder": 102,
+    "payload": {
+      "char": "말",
+      "romaji": "mal",
+      "group": "Suku kata + batchim",
+      "type": "silaba-batchim",
+      "consonant": "ㅁ",
+      "vowel": "ㅏ",
+      "batchim": "ㄹ"
+    }
+  },
+  {
+    "externalId": "syl-밥",
+    "sortOrder": 103,
+    "payload": {
+      "char": "밥",
+      "romaji": "bap",
+      "group": "Suku kata + batchim",
+      "type": "silaba-batchim",
+      "consonant": "ㅂ",
+      "vowel": "ㅏ",
+      "batchim": "ㅂ"
+    }
+  },
+  {
+    "externalId": "syl-책",
+    "sortOrder": 104,
+    "payload": {
+      "char": "책",
+      "romaji": "chaek",
+      "group": "Suku kata + batchim",
+      "type": "silaba-batchim",
+      "consonant": "ㅊ",
+      "vowel": "ㅐ",
+      "batchim": "ㄱ"
+    }
+  },
+  {
+    "externalId": "syl-물",
+    "sortOrder": 105,
+    "payload": {
+      "char": "물",
+      "romaji": "mul",
+      "group": "Suku kata + batchim",
+      "type": "silaba-batchim",
+      "consonant": "ㅁ",
+      "vowel": "ㅜ",
+      "batchim": "ㄹ"
+    }
+  },
+  {
+    "externalId": "syl-집",
+    "sortOrder": 106,
+    "payload": {
+      "char": "집",
+      "romaji": "jip",
+      "group": "Suku kata + batchim",
+      "type": "silaba-batchim",
+      "consonant": "ㅈ",
+      "vowel": "ㅣ",
+      "batchim": "ㅂ"
+    }
+  },
+  {
+    "externalId": "syl-선",
+    "sortOrder": 107,
+    "payload": {
+      "char": "선",
+      "romaji": "seon",
+      "group": "Suku kata + batchim",
+      "type": "silaba-batchim",
+      "consonant": "ㅅ",
+      "vowel": "ㅓ",
+      "batchim": "ㄴ"
+    }
+  },
+  {
+    "externalId": "syl-학",
+    "sortOrder": 108,
+    "payload": {
+      "char": "학",
+      "romaji": "hak",
+      "group": "Suku kata + batchim",
+      "type": "silaba-batchim",
+      "consonant": "ㅎ",
+      "vowel": "ㅏ",
+      "batchim": "ㄱ"
+    }
+  },
+  {
+    "externalId": "syl-생",
+    "sortOrder": 109,
+    "payload": {
+      "char": "생",
+      "romaji": "saeng",
+      "group": "Suku kata + batchim",
+      "type": "silaba-batchim",
+      "consonant": "ㅅ",
+      "vowel": "ㅐ",
+      "batchim": "ㅇ"
+    }
+  }
+]

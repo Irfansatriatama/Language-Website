@@ -1,0 +1,271 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+/// Better Auth tables + product fields (preferred study language).
+model User {
+  id                           String       @id
+  name                         String
+  email                        String
+  emailVerified                Boolean      @default(false)
+  image                        String?
+  createdAt                    DateTime     @default(now())
+  updatedAt                    DateTime     @updatedAt
+  preferredStudyLanguageCode   String?
+  /// IANA zone e.g. Asia/Tokyo. When null, SRS "due today" uses UTC calendar (see lib/srs/due-window.ts).
+  timezone                     String?
+  /// Total XP; disinkronkan dengan `UserGamificationProfile.totalXp` setiap penambahan (Fase G).
+  totalXp                      Int          @default(0)
+
+  sessions Session[]
+  accounts Account[]
+
+  itemProgress      UserItemProgress[]
+  languageSettings  UserLanguageSettings[]
+  srsCards          SrsCard[]
+  activityEvents    ActivityEvent[]
+  quizAttempts      QuizAttempt[]
+  gamificationProfile UserGamificationProfile?
+  xpLedgerEntries   XpLedger[]
+  dailyChallengeDays UserDailyChallengeDay[]
+
+  @@unique([email])
+  @@map("user")
+}
+
+/// Denormalized XP, level, streak (Fase G). `totalXp` mirrors `User.totalXp` after each award.
+model UserGamificationProfile {
+  userId         String    @id
+  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  totalXp        Int       @default(0)
+  level          Int       @default(1)
+  streakCurrent  Int       @default(0)
+  streakBest     Int       @default(0)
+  lastActiveDate DateTime? @db.Date
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+
+  @@map("user_gamification_profile")
+}
+
+/// Append-only XP log (amount may be negative for future adjustments).
+model XpLedger {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  amount    Int
+  source    String
+  refType   String?
+  refId     String?
+  createdAt DateTime @default(now())
+
+  @@index([userId, createdAt])
+  @@map("xp_ledger")
+}
+
+/// Persisted daily challenge progress; `dateKey` is YYYY-MM-DD in the user's SRS calendar (`User.timezone` or UTC).
+model UserDailyChallengeDay {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  dateKey     String
+  challenges  Json
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@unique([userId, dateKey])
+  @@index([userId])
+  @@map("user_daily_challenge_day")
+}
+
+model Session {
+  id        String   @id
+  expiresAt DateTime
+  token     String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  ipAddress String?
+  userAgent String?
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("session")
+}
+
+model Account {
+  id                    String    @id
+  accountId             String
+  providerId            String
+  userId                String
+  user                  User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  accessToken           String?
+  refreshToken          String?
+  idToken               String?
+  accessTokenExpiresAt  DateTime?
+  refreshTokenExpiresAt DateTime?
+  scope                 String?
+  password              String?
+  createdAt             DateTime  @default(now())
+  updatedAt             DateTime  @updatedAt
+
+  @@index([userId])
+  @@map("account")
+}
+
+model Verification {
+  id         String   @id
+  identifier String
+  value      String
+  expiresAt  DateTime
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([identifier])
+  @@map("verification")
+}
+
+model Language {
+  id           String   @id @default(cuid())
+  code         String   @unique
+  name         String
+  nativeName   String
+  enabled      Boolean  @default(true)
+  sortOrder    Int      @default(0)
+  modules      Module[]
+
+  userSettings UserLanguageSettings[]
+
+  @@map("language")
+}
+
+model Module {
+  id          String        @id @default(cuid())
+  languageId  String
+  language    Language      @relation(fields: [languageId], references: [id], onDelete: Cascade)
+  slug        String
+  title       String
+  description String?
+  type        String
+  order       Int           @default(0)
+  contentItems ContentItem[]
+  quizAttempts QuizAttempt[]
+
+  @@unique([languageId, slug])
+  @@index([languageId])
+  @@map("module")
+}
+
+model ContentItem {
+  id         String   @id @default(cuid())
+  moduleId   String
+  module     Module   @relation(fields: [moduleId], references: [id], onDelete: Cascade)
+  externalId String
+  payload    Json
+  sortOrder  Int      @default(0)
+
+  userProgress UserItemProgress[]
+  srsCards     SrsCard[]
+
+  @@unique([moduleId, externalId])
+  @@index([moduleId])
+  @@map("content_item")
+}
+
+enum ItemProgressState {
+  NEW
+  SEEN
+  LEARNED
+}
+
+model UserItemProgress {
+  id            String            @id @default(cuid())
+  userId        String
+  user          User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  contentItemId String
+  contentItem   ContentItem       @relation(fields: [contentItemId], references: [id], onDelete: Cascade)
+  state         ItemProgressState @default(NEW)
+  learnedAt     DateTime?
+  favorite      Boolean           @default(false)
+  createdAt     DateTime          @default(now())
+  updatedAt     DateTime          @updatedAt
+
+  @@unique([userId, contentItemId])
+  @@index([userId])
+  @@index([contentItemId])
+  @@map("user_item_progress")
+}
+
+model UserLanguageSettings {
+  id                     String   @id @default(cuid())
+  userId                 String
+  user                   User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  languageId             String
+  language               Language @relation(fields: [languageId], references: [id], onDelete: Cascade)
+  isStudying             Boolean  @default(true)
+  includeInTotalProgress Boolean  @default(true)
+  dailyGoalMinutes       Int?
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
+
+  @@unique([userId, languageId])
+  @@index([userId])
+  @@map("user_language_settings")
+}
+
+/// SM-2 scheduler state per user + content item (ported from Lingora srs.js).
+model SrsCard {
+  id            String      @id @default(cuid())
+  userId        String
+  user          User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  contentItemId String
+  contentItem   ContentItem @relation(fields: [contentItemId], references: [id], onDelete: Cascade)
+  intervalDays  Int         @default(1)
+  repetitions   Int         @default(0)
+  easeFactor    Float       @default(2.5)
+  nextReviewAt  DateTime    @db.Date
+  lastReviewAt  DateTime?   @db.Date
+  updatedAt     DateTime    @updatedAt
+
+  @@unique([userId, contentItemId])
+  @@index([userId, nextReviewAt])
+  @@index([contentItemId])
+  @@map("srs_card")
+}
+
+/// Satu sesi kuis (Fase E — pilihan ganda hiragana).
+model QuizAttempt {
+  id         String   @id @default(cuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  moduleId   String
+  module     Module   @relation(fields: [moduleId], references: [id], onDelete: Cascade)
+  mode       String
+  score      Int
+  total      Int
+  durationMs Int
+  meta       Json?
+  createdAt  DateTime @default(now())
+
+  @@index([userId, createdAt])
+  @@index([moduleId])
+  @@map("quiz_attempt")
+}
+
+/// Minimal event log stub (SRS review and future activity).
+model ActivityEvent {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  type      String
+  meta      Json?
+  createdAt DateTime @default(now())
+
+  @@index([userId, createdAt])
+  @@map("activity_event")
+}

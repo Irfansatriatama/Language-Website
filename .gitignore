@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Logs & debug
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.idea/
+*.swp
+*.swo
+
+# Certificates / keys (local)
+*.pem
+
+# Vercel CLI
+.vercel
+
+# Build outputs & caches (semua package / app)
+.next/
+out/
+dist/
+build/
+.turbo/
+*.tsbuildinfo
+
+# Tests & coverage
+coverage/
+playwright-report/
+test-results/
+
+# Prisma (backup dumps lokal, kalau ada)
+*.sql.backup
+
+_reference/
+docs/
